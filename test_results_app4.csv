@@ -1,0 +1,11 @@
+Test Type,Before,After
+Security Testing,0,0
+""
+Scalability Testing,Response Times (ms),Throughput (RPS),CPU Usage (%),Memory Usage (GB)
+""
+Flexibility Testing,Configuration Changes,Time Required (minutes)
+,1,10
+,2,15
+,3,20
+,4,25
+,5,30
